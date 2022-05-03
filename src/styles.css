@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
